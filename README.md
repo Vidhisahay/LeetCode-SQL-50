@@ -1,4 +1,4 @@
-# LeetCode-SQL-50
+# LeetCode-SQL-50 and Daily Leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
