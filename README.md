@@ -57,6 +57,7 @@
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
