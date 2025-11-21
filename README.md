@@ -46,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -73,6 +74,7 @@
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
@@ -133,12 +135,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
