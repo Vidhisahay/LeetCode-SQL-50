@@ -53,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -160,6 +161,7 @@
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
