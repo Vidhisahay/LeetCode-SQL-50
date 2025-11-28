@@ -12,6 +12,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1153-product-sales-analysis-i) |
