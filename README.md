@@ -19,6 +19,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1164-product-price-at-a-given-date) |
 | [1182-game-play-analysis-iv](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-immediate-food-delivery-ii) |
