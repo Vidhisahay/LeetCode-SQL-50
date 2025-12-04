@@ -21,6 +21,7 @@
 | [1161-project-employees-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1164-product-price-at-a-given-date) |
 | [1182-game-play-analysis-iv](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1182-game-play-analysis-iv) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1258-article-views-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1338-queries-quality-and-percentage) |
