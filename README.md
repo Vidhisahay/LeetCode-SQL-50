@@ -34,6 +34,7 @@
 | [1341-movie-rating](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-students-and-examinations) |
+| [1484-group-sold-products-by-the-date](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
