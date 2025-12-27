@@ -68,6 +68,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -97,6 +98,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3531-count-covered-buildings) |
@@ -124,6 +126,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3433-count-mentions-per-user) |
 ## String
 |  |
@@ -176,6 +179,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
@@ -280,6 +284,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3433-count-mentions-per-user) |
