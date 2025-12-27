@@ -38,6 +38,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1517-find-users-with-valid-e-mails) |
+| [1667-fix-names-in-a-table](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
